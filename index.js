@@ -49,7 +49,7 @@ client.on('messageCreate', async (message) => {
       message.channel.send(`🛒 Produto: ${p.desc}
 💰 Preço: ${p.preco}
 
-💳 Pix: SUA_CHAVE_PIX
+💳 Pix: 13d8a112-0bdf-4c4f-9897-00ef097ba223
 
 📩 Após pagar, envie o comprovante.`);
     }
